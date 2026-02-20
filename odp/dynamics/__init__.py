@@ -9,3 +9,5 @@ from odp.dynamics.Plane2D import Plane2D
 from odp.dynamics.Plane1D import Plane1D
 from odp.dynamics.DubinsAirplane6D import DubinsAirplane6D
 # from odp.dynamics.PlaneQuad6D import PlaneQuad6D
+from odp.dynamics.DubinsCarXSubsystem import DubinsCarXSubsystem
+from odp.dynamics.DubinsCarYSubsystem import DubinsCarYSubsystem
